@@ -7367,7 +7367,7 @@ section {
   bottom: 0;
   left: 0;
   z-index: -1;
-  background: url("../img/mob1.jpg") no-repeat center 0 / cover;
+  background: url("../img/write.jpg") no-repeat center 0 / cover;
   -webkit-transition: -webkit-transform 700ms cubic-bezier(.39, .575, .565, 1);
        -o-transition:      -o-transform 700ms cubic-bezier(.39, .575, .565, 1);
           transition:         transform 700ms cubic-bezier(.39, .575, .565, 1);
